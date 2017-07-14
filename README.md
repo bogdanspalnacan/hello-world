@@ -1,3 +1,3 @@
 # hello-world
-a short description
+a short description:
 i like pie
